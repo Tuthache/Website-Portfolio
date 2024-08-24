@@ -9,7 +9,7 @@ const ProjectsSidebar = () => {
           to="mangamuse"
           smooth={true}
           duration={500}
-          className="text-white text-center text-4xl cursor-pointer hover:text-gray-300"
+          className="text-white text-center text-4xl bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
         >
           MangaMuse
         </Link>
@@ -17,7 +17,7 @@ const ProjectsSidebar = () => {
           to="mangacat"
           smooth={true}
           duration={500}
-          className="text-white text-center text-4xl cursor-pointer hover:text-gray-300"
+          className="text-white text-center text-4xl bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
         >
           MangaCat
         </Link>
@@ -25,7 +25,7 @@ const ProjectsSidebar = () => {
           to="expensetracker"
           smooth={true}
           duration={500}
-          className="text-white text-center text-4xl cursor-pointer hover:text-gray-300"
+          className="text-white text-center text-4xl bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
         >
           Expense Tracker
         </Link>
@@ -33,7 +33,7 @@ const ProjectsSidebar = () => {
           to="simstation"
           smooth={true}
           duration={500}
-          className="text-white text-center text-4xl cursor-pointer hover:text-gray-300"
+          className="text-white text-center text-4xl bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg hover:bg-blue-600 transition-colors"
         >
           Simstation
         </Link>
