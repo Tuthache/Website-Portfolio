@@ -3,9 +3,13 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <div className="">
-      <Navbar />
-      <div className=""></div>
+    <div className="flex flex-col h-screen">
+      <div className="border-solid border-b-2 border-black">
+        <Navbar />
+      </div>
+      <div className="bg-gray-600 h-screen text-center text-white">
+        <div className="mt-10 text-4xl font-bold">About Me</div>
+      </div>
     </div>
   );
 };
