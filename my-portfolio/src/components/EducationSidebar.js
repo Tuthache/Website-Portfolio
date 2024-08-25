@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-scroll";
 
 const EducationSidebar = () => {
   return (
@@ -23,16 +22,7 @@ const EducationSidebar = () => {
         >
           SCE SJSU
         </a>
-        <a
-          href="https://github.com/beyond-all-reason"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-white text-center text-4xl
-          bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg
-          hover:bg-blue-600 transition-colors"
-        >
-          BAR development
-        </a>
+        
       </div>
     </div>
   );

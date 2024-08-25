@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-scroll";
 
 const HobbiesSidebar = () => {
   return (
@@ -34,6 +33,16 @@ const HobbiesSidebar = () => {
           hover:bg-blue-600 transition-colors"
         >
           Beyond All Reason
+        </a>
+        <a
+          href="https://anilist.co/user/tuthache/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-white text-center text-4xl
+          bg-purple-900 rounded-lg cursor-pointer py-2 px-4 rounded-lg shadow-lg
+          hover:bg-blue-600 transition-colors"
+        >
+          Anilist
         </a>
       </div>
     </div>
