@@ -15,7 +15,7 @@ const Education = () => {
 
         <div className="flex-1 bg-gray-600 overflow-y-auto text-center text-white">
           <div className="container mx-auto py-12">
-            <div className="mt-2 text-4xl font-bold">My Hobbies</div>
+            <div className="mt-2 text-4xl font-bold">Education</div>
           </div>
         </div>
       </div>
