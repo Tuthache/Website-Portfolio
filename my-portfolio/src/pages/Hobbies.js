@@ -15,7 +15,26 @@ const Hobbies = () => {
 
         <div className="flex-1 bg-gray-600 overflow-y-auto text-center text-white">
           <div className="container mx-auto py-12">
-            <div className="mt-2 text-4xl font-bold">My Hobbies</div>
+            <div className="mt-2 text-5xl space-y-10">
+              My Hobbies
+              <div id="games" className="mt-10 text-4xl">
+                Gaming
+                <p className="text-xl mt-8 ml-10 mr-10">
+                  Since my early childhood I've always been fond of playing
+                  games. Throughout different genres such as MMORPG, FPS,
+                  Survival, Exploration, and many others I've enjoyed many
+                  different types of games and their unique mechanics.
+                </p>
+              </div>
+              <div id="sports" className="text-4xl">
+                Sports
+                <p className="text-xl mt-8 ml-10 mr-10"></p>
+              </div>
+              <div id="reading" className="text-4xl">
+                Reading
+                <p className="text-xl mt-8 ml-10 mr-10"></p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
