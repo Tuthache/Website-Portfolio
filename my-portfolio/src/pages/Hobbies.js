@@ -56,7 +56,7 @@ const Hobbies = () => {
                   Here are some of the tournaments I've participated in:
                 </p>
                 <div className="flex justify-center">
-                  <ul className="list-disc text-xl font-bold mt-4 ml-20 mr-10">
+                  <ul className="list-disc text-xl font-bold mt-4 ml-10 mr-10">
                     <li>BAR Omega Series Season 1 5v5 | 2nd Place</li>
                     <li>BAR Pro League Season 2 1v1 | 16-32rd Place</li>
                     <li>BAR Nation Wars Season 2 4v4 | 4th Place</li>
@@ -105,7 +105,7 @@ const Hobbies = () => {
                   throughout that time period.
                 </p>
               </div>
-              <div id="sports" className="text-4xl">
+              <div id="reading" className="text-4xl">
                 Reading
                 <p className="text-2xl mt-8 ml-10 mr-10">
                   Light Novels, Manga/Manhwa, and Anime
@@ -136,7 +136,7 @@ const Hobbies = () => {
                   writing as well.
                 </p>
               </div>
-              <div id="reading" className="text-4xl">
+              <div id="sports" className="text-4xl">
                 Sports
                 <p className="text-xl mt-8 ml-10 mr-10">
                   Throughout my early life I've participated in multiple sports
