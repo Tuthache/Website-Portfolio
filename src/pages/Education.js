@@ -16,7 +16,7 @@ const Education = () => {
         <div className="flex-1 bg-gray-600 overflow-y-auto text-center text-white">
           <div className="container mx-auto py-12">
             <div className="mt-2 text-5xl space-y-10">
-              My Hobbies
+              My Education
               <div id="games" className="mt-10 text-4xl">
                 School
                 <p className="text-xl mt-8 ml-10 mr-10">
