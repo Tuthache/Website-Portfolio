@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Website-Portfolio/static/css/main.a59e3a73.css",
-    "main.js": "/Website-Portfolio/static/js/main.e7f60c4a.js",
-    "static/js/453.acca0757.chunk.js": "/Website-Portfolio/static/js/453.acca0757.chunk.js",
-    "static/media/IMG_4419.jpg": "/Website-Portfolio/static/media/IMG_4419.06bb2578e69cd3bfc2c6.jpg",
-    "static/media/bartournament.PNG": "/Website-Portfolio/static/media/bartournament.0fd7660982257cdcaba4.PNG",
-    "static/media/haloinfinite.jpg": "/Website-Portfolio/static/media/haloinfinite.b9a45b0c91d813ae12c4.jpg",
-    "static/media/spartangaming.PNG": "/Website-Portfolio/static/media/spartangaming.270c8301ce7559a4cc99.PNG",
-    "static/media/SJSU.jpg": "/Website-Portfolio/static/media/SJSU.243bc732ec204a614d96.jpg",
-    "static/media/Truth_transparant.PNG.webp": "/Website-Portfolio/static/media/Truth_transparant.PNG.be066a15a7d3cd2be57d.webp",
-    "static/media/mangacat.PNG": "/Website-Portfolio/static/media/mangacat.48fccb40acc81cdf7ad3.PNG",
-    "static/media/expensetracker.PNG": "/Website-Portfolio/static/media/expensetracker.dbbbfaa82c1d9d671236.PNG",
-    "static/media/sce.ico": "/Website-Portfolio/static/media/sce.d02b4186c4be23134f75.ico",
-    "static/media/anime.PNG": "/Website-Portfolio/static/media/anime.7bcacdab13d46ae494c4.PNG",
-    "static/media/mangalightnovel.PNG": "/Website-Portfolio/static/media/mangalightnovel.01729160493b0499f473.PNG",
-    "static/media/simstationplague.PNG": "/Website-Portfolio/static/media/simstationplague.daa03a792ddaa07ce2bd.PNG",
-    "index.html": "/Website-Portfolio/index.html",
-    "main.a59e3a73.css.map": "/Website-Portfolio/static/css/main.a59e3a73.css.map",
-    "main.e7f60c4a.js.map": "/Website-Portfolio/static/js/main.e7f60c4a.js.map",
-    "453.acca0757.chunk.js.map": "/Website-Portfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/static/css/main.a59e3a73.css",
+    "main.js": "/static/js/main.86562f09.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/IMG_4419.jpg": "/static/media/IMG_4419.06bb2578e69cd3bfc2c6.jpg",
+    "static/media/bartournament.PNG": "/static/media/bartournament.0fd7660982257cdcaba4.PNG",
+    "static/media/haloinfinite.jpg": "/static/media/haloinfinite.b9a45b0c91d813ae12c4.jpg",
+    "static/media/spartangaming.PNG": "/static/media/spartangaming.270c8301ce7559a4cc99.PNG",
+    "static/media/SJSU.jpg": "/static/media/SJSU.243bc732ec204a614d96.jpg",
+    "static/media/Truth_transparant.PNG.webp": "/static/media/Truth_transparant.PNG.be066a15a7d3cd2be57d.webp",
+    "static/media/mangacat.PNG": "/static/media/mangacat.48fccb40acc81cdf7ad3.PNG",
+    "static/media/expensetracker.PNG": "/static/media/expensetracker.dbbbfaa82c1d9d671236.PNG",
+    "static/media/sce.ico": "/static/media/sce.d02b4186c4be23134f75.ico",
+    "static/media/anime.PNG": "/static/media/anime.7bcacdab13d46ae494c4.PNG",
+    "static/media/mangalightnovel.PNG": "/static/media/mangalightnovel.01729160493b0499f473.PNG",
+    "static/media/simstationplague.PNG": "/static/media/simstationplague.daa03a792ddaa07ce2bd.PNG",
+    "index.html": "/index.html",
+    "main.a59e3a73.css.map": "/static/css/main.a59e3a73.css.map",
+    "main.86562f09.js.map": "/static/js/main.86562f09.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a59e3a73.css",
-    "static/js/main.e7f60c4a.js"
+    "static/js/main.86562f09.js"
   ]
 }
