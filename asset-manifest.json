@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Website-Portfolio/static/css/main.a59e3a73.css",
-    "main.js": "/Website-Portfolio/static/js/main.0c7b738d.js",
+    "main.js": "/Website-Portfolio/static/js/main.a73eb473.js",
     "static/js/453.acca0757.chunk.js": "/Website-Portfolio/static/js/453.acca0757.chunk.js",
     "static/media/IMG_4419.jpg": "/Website-Portfolio/static/media/IMG_4419.06bb2578e69cd3bfc2c6.jpg",
     "static/media/bartournament.PNG": "/Website-Portfolio/static/media/bartournament.0fd7660982257cdcaba4.PNG",
@@ -17,11 +17,11 @@
     "static/media/simstationplague.PNG": "/Website-Portfolio/static/media/simstationplague.daa03a792ddaa07ce2bd.PNG",
     "index.html": "/Website-Portfolio/index.html",
     "main.a59e3a73.css.map": "/Website-Portfolio/static/css/main.a59e3a73.css.map",
-    "main.0c7b738d.js.map": "/Website-Portfolio/static/js/main.0c7b738d.js.map",
+    "main.a73eb473.js.map": "/Website-Portfolio/static/js/main.a73eb473.js.map",
     "453.acca0757.chunk.js.map": "/Website-Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a59e3a73.css",
-    "static/js/main.0c7b738d.js"
+    "static/js/main.a73eb473.js"
   ]
 }
