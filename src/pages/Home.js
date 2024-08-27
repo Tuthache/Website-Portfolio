@@ -30,7 +30,7 @@ const Home = () => {
         <p>
           <a
             href="https://www.linkedin.com/in/austin-nguyen-software-engineer/ "
-            className="text-xl mt-8 ml-10 mr-10"
+            className="text-xl mt-8 ml-10 mr-10 hover:text-blue-600 transition-colors"
           >
             LinkedIn:
             https://www.linkedin.com/in/austin-nguyen-software-engineer/
