@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center bg-purple-900 text-white p-4 py-6">
       <div className="text-xl font-bold">
-        <a href="/">
+        <a href="/Website-Portfolio">
           <img
             src={require("../img/Truth_transparant.PNG.webp")}
             alt="Prophet of Truth"
@@ -13,13 +13,22 @@ const Navbar = () => {
         </a>
       </div>
       <div>
-        <a href="/hobbies" className="mx-10 text-3xl hover:text-purple-500">
+        <a
+          href="/Website-Portfolio/hobbies"
+          className="mx-10 text-3xl hover:text-purple-500"
+        >
           Hobbies
         </a>
-        <a href="/education" className="mx-10 text-3xl hover:text-purple-500">
+        <a
+          href="/Website-Portfolio/education"
+          className="mx-10 text-3xl hover:text-purple-500"
+        >
           Education
         </a>
-        <a href="projects" className="mx-10 text-3xl hover:text-purple-500">
+        <a
+          href="/Website-Portfolio/projects"
+          className="mx-10 text-3xl hover:text-purple-500"
+        >
           Projects
         </a>
       </div>
